@@ -10,3 +10,4 @@ beta/
 translation/
 www
 .sass-cache
+.nyc_output/
